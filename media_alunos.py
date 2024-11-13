@@ -18,3 +18,6 @@ elif 5 <= media <= 6:
     print("Recuperação")
 else:
     print("Reprovado")
+
+    # Calcula a média ponderada
+media = (nota1 * 1 + nota2 * 1 + nota3 * 2) / 4
